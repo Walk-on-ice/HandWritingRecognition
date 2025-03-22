@@ -1,0 +1,8 @@
+MNIST Models Performance
+----------------------
+KNN Accuracy: 0.9583
+KNN Training Time: 0.01s
+SVM Accuracy: 0.9768
+SVM Training Time: 203.04s
+Training Samples: 20000
+Testing Samples: 10000
